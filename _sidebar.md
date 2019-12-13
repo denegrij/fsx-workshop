@@ -2,7 +2,7 @@
 
 - Getting started
 
-  - [Do step A](1-getting-started/1-stepA.md)
+  - [Overview](1-getting-started/1-stepA.md)
   - [Do step B](1-getting-started/2-stepB.md)
 
 - Excersise #1
